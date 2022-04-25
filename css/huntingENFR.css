@@ -243,6 +243,7 @@ main section.contact{
 main section div.contact{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 main section div.contact img{
     max-width: 3rem;
